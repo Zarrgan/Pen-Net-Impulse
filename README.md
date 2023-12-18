@@ -1,5 +1,7 @@
 # :bomb: Impulse
 ## Modern Denial-of-service ToolKit
+ORIGNAL
+https://github.com/LimerBoy/Impulse
 
 
 <p align="center">
